@@ -1,0 +1,30 @@
+.navbar-brand {
+  font-size: 3em;
+  background-image: url(src/img/usf.png);
+  background-position: center;
+}
+
+h1 {
+  background-color: #006747;
+  text-align: center;
+}
+
+.container {
+  font-family: sans-serif;
+}
+
+.subheading {
+  font-size: 16px;
+  font-style: italic;
+}
+
+.list-group-item {
+  font-weight: bold;
+}
+
+.strike {
+  text-decoration-line: line-through;
+  text-decoration-style: solid;
+  text-decoration-color: green;
+  text-decoration-thickness: 2px;
+}
